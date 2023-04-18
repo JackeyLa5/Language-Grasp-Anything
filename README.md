@@ -37,7 +37,7 @@ For Graspness, please refer [here](https://github.com/rhett-chen/graspness_imple
 - Download the checkpoint for Graspness:
 
   ```python
-  wget https://github.com/IDEA-Research/GroundingDINO/releases/download/v0.1.0-alpha/groundingdino_swint_ogc.pth
+  https://drive.google.com/file/d/1HXhO6z2XNAnGW4BiGHBy83cVa-d32AeV/view?usp=share_link
   ```
 
 - Run demo:
