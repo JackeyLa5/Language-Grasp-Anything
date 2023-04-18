@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python train.py --camera realsense --log_dir logs/log_realsense --batch_size 4 --learning_rate 0.001 --model_name minkuresunet --dataset_root /home/yzhang/graspness_data/graspnet --resume
